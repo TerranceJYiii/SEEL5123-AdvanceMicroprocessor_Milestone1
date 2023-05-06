@@ -21,7 +21,7 @@
   <h2>Discussion</h2>
     <p>In this milestone, the LED on STM32F446 board is programmed to blink fast 3 times, blink slowly 3 times, blink fast 3 times again and dim for 2 seconds. This combines up to form a classical SOS signal.</p>
     
-  <h2>Discussion</h2>
+  <h2>Reference</h2>
     <ul>
       <li>https://www.youtube.com/watch?v=hyZS2p1tW-g</li>
     </ul>
