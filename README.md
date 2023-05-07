@@ -13,7 +13,7 @@
     <ol>
       <li>Install STM32CubeIDE</li>
       <li>Select the board to use and create a workspace</li>
-      <li>Define the on-board LED pin (PC-13) into GPIO_Output pin in Pinout & Configuration</li>
+      <li>Define the on-board LED pin (PA-5) into GPIO_Output pin in Pinout & Configuration</li>
       <li>Modify the code inside the while loop of main.c script using HAL_GPIO_TogglePin and HAL_Delay</li>
       <li>Test the functionality of code by debugger</li>
     </ol>
