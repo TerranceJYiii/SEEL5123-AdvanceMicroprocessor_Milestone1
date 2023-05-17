@@ -28,6 +28,6 @@
     
   <h2>Demo Video</h2>
     <ul>
-      <li>https://youtube.com/shorts/AAv8iH3VS7A?feature=share</li>
+      <li>https://youtu.be/a4QbcD2auug</li>
     </ul>
     
